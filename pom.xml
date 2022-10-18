@@ -44,7 +44,7 @@
                 <version>3.3.2</version>
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
-                    <webappDirectory>/opt/tomcat/webapps</webappDirectory>
+                    <webappDirectory>/opt/tomcat/webapps/mywebapp</webappDirectory>
                 </configuration>
               </plugin>
         </plugins>
